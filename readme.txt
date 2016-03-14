@@ -5,8 +5,5 @@ Git tracks changes of files.
 
 add one line: I add one more line in readme.txt.
 
-<<<<<<< HEAD
+
 Creating a new branch is quick and simple.
-=======
-Creating a new branch is quick AND simple.
->>>>>>> feature1
